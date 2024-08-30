@@ -1,0 +1,1 @@
+El objetivo de este proyecto es identificar tendencias sobre el salario para los distintos puestos de trabajo relacionados al campo de la Informacion. Se busca encontrar patrones por puesto, locacion.
